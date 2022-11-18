@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1668672878317,1163,HTTP Request,200,OK,Thread Group 1-1,text,true,,28041,125,1,1,http://opencart.abstracta.us/,855,0,522
+1668672879496,268,HTTP Request,200,OK,Thread Group 1-1,text,true,,28040,125,1,1,http://opencart.abstracta.us/,268,0,0
